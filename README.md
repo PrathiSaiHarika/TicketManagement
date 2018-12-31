@@ -1,5 +1,5 @@
 # TicketManagement
-When it is easy to solve the problems through computer mode, then why to delaying ? 
+When it is easy to solve the problems through computer mode, then why to delay? 
 Normally when we face any problems in an organisation, we will usually inform to the admin.
 But sometimes it is not sure that problem will get solved immediately.
 So here comes our implementation of ticket management mechanism.
